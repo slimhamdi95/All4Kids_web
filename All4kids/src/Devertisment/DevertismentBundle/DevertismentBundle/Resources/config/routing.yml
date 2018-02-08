@@ -1,0 +1,3 @@
+devertisment_homepage:
+    path:     /
+    defaults: { _controller: DevertismentBundle:Default:index }
